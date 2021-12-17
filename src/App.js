@@ -6,9 +6,9 @@ import Form from "./Form";
 const App = () => {
   return (
     <div className="header">
-      <h1>Lambda Pizza BABY!</h1>
-      <p>The BEST place for some pizza and code!</p>
-      <p>Disclaimer: Food is actually made through code.</p>
+      <h1>BloomTech Pizza!</h1>
+      <p>The BEST place for some pizza!</p>
+      <p>Disclaimer: Food is coded thoroughly.</p>
       <nav>
       <Link to="/"><button id="home-button">Home</button></Link>
       <Link to="/pizza"><button id="order-pizza">Order Pizza!</button></Link>
